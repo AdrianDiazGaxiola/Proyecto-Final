@@ -1,3 +1,4 @@
 En este repositorio se encontrarán los archivos con código fuente de python, hechos mediante Google Colab con un archivo correspondiente a cada fenómeno estudiado.
+En el archivo "IPCC_Procesamiento", se puede encontrar el código relacionado al inventario de gases y emisiones de efecto invernadero y su relación con las temperaturas medias.
 
 En la carpeta "Data" se pueden encontrar los archivos .csv utilizados para llevar a cabo los análisis necesarios.
