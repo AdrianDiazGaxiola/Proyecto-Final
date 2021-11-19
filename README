@@ -1,1 +1,3 @@
-En este repositorio se encontrarán los archivos con códigod de Python, R, así como también los archivos de donde se extraerá información para construir los data frame.
+En este repositorio se encontrarán los archivos con código fuente de python, hechos mediante Google Colab con un archivo correspondiente a cada fenómeno estudiado.
+
+En la carpeta "Data" se pueden encontrar los archivos .csv utilizados para llevar a cabo los análisis necesarios.
